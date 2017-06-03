@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: James
 
-I like to:
+I like to: Learn Programming and Web Development
 
-I'm learning:
+I'm learning: LamdaSchool's MiniBootcamp Materials
 
 ```
 
